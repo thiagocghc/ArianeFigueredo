@@ -36,15 +36,15 @@
         },
 
         {
-          icone: "pets",
-          texto: "Perfil",
-          rota: "/perfil"
+          icone: "account_circle",
+          texto: "Cadastro",
+          rota: "/cadastro"
         },
 
         {
-          icone: "person_add_disabled",
-          texto: "Adicionar perfil",
-          rota: "/add"
+          icone: "pets",
+          texto: "Perfil do Pet",
+          rota: "/perfil"
         },
         
         {
