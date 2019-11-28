@@ -13,18 +13,19 @@
           v-model="select"
           :items="animal"
         
-          label="Selecione o pet"
+          label="Tipo do Pet"
           required 
            >
         </v-select>
-        <v-select
-          v-model="select"
-          :raca="raca"
-        
-          label="Selecione a raça"
+
+ <v-text-field
+          v-model="raça"
+          
+          label="Digite a raça"
           required
-           >
-        </v-select>
+          
+        ></v-text-field>
+
         <v-checkbox
           v-model="checkbox"
           
