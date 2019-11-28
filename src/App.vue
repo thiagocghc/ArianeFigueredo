@@ -47,8 +47,6 @@
           rota: "/add"
         },
         
-        
-
         {
           icone: "local_hospital",
           texto: "Clínicas próximas",
